@@ -1,0 +1,1 @@
+insert into categoria (nome, descricao) values ('Informática', 'Produtos Informática');
