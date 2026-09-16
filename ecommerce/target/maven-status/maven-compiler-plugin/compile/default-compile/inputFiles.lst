@@ -1,0 +1,7 @@
+/workspaces/padroes-desenvolvimento-web-4c-2026-02/ecommerce/src/main/java/br/edu/unifio/ecommerce/EcommerceApplication.java
+/workspaces/padroes-desenvolvimento-web-4c-2026-02/ecommerce/src/main/java/br/edu/unifio/ecommerce/entidades/Categoria.java
+/workspaces/padroes-desenvolvimento-web-4c-2026-02/ecommerce/src/main/java/br/edu/unifio/ecommerce/entidades/Cliente.java
+/workspaces/padroes-desenvolvimento-web-4c-2026-02/ecommerce/src/main/java/br/edu/unifio/ecommerce/entidades/ItemPedido.java
+/workspaces/padroes-desenvolvimento-web-4c-2026-02/ecommerce/src/main/java/br/edu/unifio/ecommerce/entidades/Pagamento.java
+/workspaces/padroes-desenvolvimento-web-4c-2026-02/ecommerce/src/main/java/br/edu/unifio/ecommerce/entidades/Pedido.java
+/workspaces/padroes-desenvolvimento-web-4c-2026-02/ecommerce/src/main/java/br/edu/unifio/ecommerce/entidades/Produto.java

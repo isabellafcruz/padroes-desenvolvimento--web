@@ -1,0 +1,7 @@
+br/edu/unifio/ecommerce/entidades/Pagamento.class
+br/edu/unifio/ecommerce/EcommerceApplication.class
+br/edu/unifio/ecommerce/entidades/Produto.class
+br/edu/unifio/ecommerce/entidades/Cliente.class
+br/edu/unifio/ecommerce/entidades/ItemPedido.class
+br/edu/unifio/ecommerce/entidades/Pedido.class
+br/edu/unifio/ecommerce/entidades/Categoria.class
