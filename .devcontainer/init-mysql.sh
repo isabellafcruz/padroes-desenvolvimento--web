@@ -35,9 +35,9 @@ CREATE DATABASE IF NOT EXISTS ecommerce
 CHARACTER SET utf8mb4
 COLLATE utf8mb4_unicode_ci;
 
-CREATE USER IF NOT EXISTS 'isabelly'@'%' IDENTIFIED BY '12345';
+CREATE USER IF NOT EXISTS 'isabella'@'%' IDENTIFIED BY 'cadeado123';
 
-GRANT ALL PRIVILEGES ON ecommerce.* TO 'isabelly'@'%';
+GRANT ALL PRIVILEGES ON ecommerce.* TO 'isabella'@'%';
 
 FLUSH PRIVILEGES;
 EOF
